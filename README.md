@@ -23,4 +23,4 @@ To run the code included in this repository, the following software and tools ar
 - Jupyter Notebook
 - NumPy
 - Matplotlib
-- sklearn
+- scikit-learn
