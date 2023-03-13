@@ -24,6 +24,12 @@ The following is a list of projects included in this repository:
 
     Support Vector Machines (SVMs) are a type of machine learning algorithm that can be used for classification. In the context of channel decoding, the goal is to classify the received signal into one of the $2^4 = 16$ possible information messages. One approach is to use the one-versus-one method, which involves training the SVM ${{16}\choose{2}}$ times on each pair of possible classes.
 
+- ### [Channel Decoding as Classification: Deep Learning ](./Deep%20learning/)
+
+    #### 2023-03-13
+
+    In this project, we will use **TensorFlow**, to explore how deep neural networks can be used for channel decoding. We will treat channel decoding as a classification problem, where the goal is to map the received signal to the most likely transmitted message. We will compare the performance of our deep learning-based approach with previous decoding algorithms and machine learning approaches.
+
 ## **Requirements**
 
 To run the code included in this repository, the following software and tools are required:
