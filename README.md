@@ -30,6 +30,12 @@ The following is a list of projects included in this repository:
 
     In this project, we will use **TensorFlow**, to explore how deep neural networks can be used for channel decoding. We will treat channel decoding as a classification problem, where the goal is to map the received signal to the most likely transmitted message. We will compare the performance of our deep learning-based approach with previous decoding algorithms and machine learning approaches.
 
+- ### [Final Project on AI for Channel Decoding](./Deep%20learning/)
+
+    #### 2023-03-20
+
+    In this project, we will use **TensorFlow**, to explore how deep neural networks can be used for channel decoding. We will treat channel decoding as a classification problem, where the goal is to map the received signal to the most likely transmitted message. We will compare the performance of our deep learning-based approach with previous decoding algorithms and machine learning approaches.
+
 ## **Requirements**
 
 To run the code included in this repository, the following software and tools are required:
